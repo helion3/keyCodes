@@ -1,0 +1,1 @@
+Provides Key Code Constants for javascript projects. Supports RequireJS

@@ -1,0 +1,16 @@
+{
+  "name": "lodash-validated-assign",
+  "version": "0.0.1",
+  "homepage": "https://github.com/helion3/lodash-validated-assign",
+  "authors": [
+    "Mike Botsko <botsko@gmail.com>"
+  ],
+  "description": "Validates object properties before assignment",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "main": "dist/lodash-validated-assign.min.js",
+  "ignore": ["src", "test"],
+  "devDependencies": [],
+  "private": false
+}

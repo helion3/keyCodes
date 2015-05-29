@@ -1,0 +1,17 @@
+{
+  "name": "keyCodes",
+  "version": "0.0.1",
+  "description": "Key Code constants",
+  "repository": "https://github.com/helion3/keyCodes",
+  "dependencies": {},
+  "devDependencies": {
+    "amdefine": "^0.1.0",
+    "bower": "^1.4.1",
+    "gulp": "^3.8.11",
+    "gulp-jscs": "^1.4.0",
+    "gulp-jshint": "^1.10.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0",
+    "jshint-stylish": "^1.0.1"
+  }
+}
