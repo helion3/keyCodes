@@ -10,7 +10,7 @@
   "dependencies": {
   },
   "main": "dist/lodash-validated-assign.min.js",
-  "ignore": ["src", "test"],
+  "ignore": ["test"],
   "devDependencies": [],
   "private": false
 }
